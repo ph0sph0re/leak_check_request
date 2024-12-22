@@ -12,7 +12,9 @@ https://leakcheck.io/
 ---
 
 ## PUT YOUR API KEY
+api documentation :
 https://wiki.leakcheck.io/en/api/api-v2-pro
+
 put her between ""
 
 [![Copie-d-cran-20241222-035639.png](https://i.postimg.cc/XJNRdpJB/Copie-d-cran-20241222-035639.png)](https://postimg.cc/sB8HRf53)
